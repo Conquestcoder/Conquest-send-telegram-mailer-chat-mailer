@@ -1,0 +1,35 @@
+1) 
+a: how use a mailer? 
+b: you need to a set up config
+2) 
+a: how to get a api id and api hash? 
+b: To obtain your Telegram API ID and API hash, you need to visit the Telegram API development tools page. After signing in with your Telegram account, fill out the required form, and you will receive your API ID and API hash. **Steps to Obtain API ID and API Hash**
+
+1. **Create a Telegram Account**
+   - Download and install the Telegram app on your mobile device.
+   - Sign up for a new account if you don't already have one.
+
+2. **Access Telegram Developer Account**
+   - Go to the Telegram Developer tools page: [my.telegram.org/apps](https://my.telegram.org/apps).
+   - Log in using the phone number associated with your Telegram account.
+
+3. **Create a New Application**
+   - Click on "API development tools."
+   - Fill in the application details in the "Create new application" form. You only need to complete the "App title" and "Short name" fields.
+   - Click on "Create application."
+
+4. **Retrieve Your API Credentials**
+   - After creating the application, you will see your **API ID** and **API hash** on the application configuration screen.
+   - Keep your API hash secure, as it is sensitive information.
+
+**Using the API ID and Hash**
+
+- You can use these credentials to authenticate your application with the Telegram API.
+- The API ID and hash can be used with any phone number or bot accounts.
+
+**Important Notes**
+
+- Each phone number can only have one API ID associated with it.
+- Do not share your API hash publicly, as it is a secret key.
+
+
